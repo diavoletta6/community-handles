@@ -16,17 +16,17 @@
     --border: 360 31.8% 82%;
     --input: 360 31.8% 82%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 47.4% 11.2%;
+    --card: 0 47% 70%;
+    --card-foreground: 360 47.4% 11.2%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 360 47.4% 11.2%;
+    --primary-foreground: 360 31.8% 23%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 10 40% 77%;
+    --secondary-foreground: 10 40% 77%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 293 40% 77%);
+    --accent-foreground: 293 40% 77%);
 
     --destructive: 0 100% 50%;
     --destructive-foreground: 210 40% 98%;
